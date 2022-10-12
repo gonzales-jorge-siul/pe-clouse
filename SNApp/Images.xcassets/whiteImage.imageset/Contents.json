@@ -1,0 +1,50 @@
+{
+  "images" : [
+    {
+      "idiom" : "iphone",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "iphone",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "whiteImage.jpg",
+      "idiom" : "iphone",
+      "resizing" : {
+        "cap-insets" : {
+          "bottom" : 0,
+          "left" : 131,
+          "right" : 143,
+          "top" : 106
+        },
+        "center" : {
+          "height" : 194,
+          "mode" : "tile",
+          "width" : 167
+        },
+        "mode" : "9-part"
+      },
+      "scale" : "3x"
+    },
+    {
+      "idiom" : "iphone",
+      "scale" : "1x",
+      "subtype" : "retina4"
+    },
+    {
+      "idiom" : "iphone",
+      "scale" : "2x",
+      "subtype" : "retina4"
+    },
+    {
+      "idiom" : "iphone",
+      "scale" : "3x",
+      "subtype" : "retina4"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

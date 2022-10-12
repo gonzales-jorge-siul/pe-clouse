@@ -1,0 +1,75 @@
+
+/* Class = "UILabel"; text = "Bienvenido!"; ObjectID = "370-Fo-gTp"; */
+"370-Fo-gTp.text" = "Bienvenido!";
+
+/* Class = "UILabel"; text = "SNApp Version: 1.0.0"; ObjectID = "5uz-PM-HVQ"; */
+"5uz-PM-HVQ.text" = "SNApp Version: 1.0.0";
+
+/* Class = "UILabel"; text = "Instruccion1"; ObjectID = "67k-D8-DiD"; */
+"67k-D8-DiD.text" = "Instruccion1";
+
+/* Class = "UILabel"; text = "Especifica otro motivo"; ObjectID = "69u-Wr-wcU"; */
+"69u-Wr-wcU.text" = "Especifica otro motivo";
+
+/* Class = "UINavigationItem"; title = "Another reason"; ObjectID = "6Lp-VU-gRW"; */
+"6Lp-VU-gRW.title" = "Another reason";
+
+/* Class = "UITextField"; text = "Username"; ObjectID = "94D-4e-4xs"; */
+"94D-4e-4xs.text" = "Username";
+
+/* Class = "UILabel"; text = "Instruccion2"; ObjectID = "9gI-aE-SYI"; */
+"9gI-aE-SYI.text" = "Instruccion2";
+
+/* Class = "UILabel"; text = "Instruccion1"; ObjectID = "FE2-O7-pnD"; */
+"FE2-O7-pnD.text" = "Instruccion1";
+
+/* Class = "UILabel"; text = "I'm here and it dislike me"; ObjectID = "TRq-Lb-YOR"; */
+"TRq-Lb-YOR.text" = "I'm here and it dislike me";
+
+/* Class = "UILabel"; text = "Instruccion1"; ObjectID = "Ti8-EU-OPE"; */
+"Ti8-EU-OPE.text" = "Instruccion1";
+
+/* Class = "UITabBarItem"; title = "Item"; ObjectID = "U9b-Zc-oS4"; */
+"U9b-Zc-oS4.title" = "Item";
+
+/* Class = "UIViewController"; title = "Another reason"; ObjectID = "VvG-Zt-SIg"; */
+"VvG-Zt-SIg.title" = "Another reason";
+
+/* Class = "UIButton"; normalTitle = "Send a mail"; ObjectID = "WEP-j8-rKC"; */
+"WEP-j8-rKC.normalTitle" = "Send a mail";
+
+/* Class = "UITabBarItem"; title = "Settings"; ObjectID = "X0I-o5-YHs"; */
+"X0I-o5-YHs.title" = "Configuraciones";
+
+/* Class = "UILabel"; text = "@jorgegonzalessiuljgg"; ObjectID = "ZJJ-Yx-rRo"; */
+"ZJJ-Yx-rRo.text" = "@jorgegonzalessiuljgg";
+
+/* Class = "UILabel"; text = "instruction1"; ObjectID = "cPI-vJ-9QP"; */
+"cPI-vJ-9QP.text" = "instruction1";
+
+/* Class = "UITextField"; text = "Name"; ObjectID = "eTP-zd-ODe"; */
+"eTP-zd-ODe.text" = "Name";
+
+/* Class = "UINavigationItem"; title = "Report"; ObjectID = "jug-Id-BOS"; */
+"jug-Id-BOS.title" = "Report";
+
+/* Class = "UITextField"; text = "number"; ObjectID = "rfZ-hw-XrY"; */
+"rfZ-hw-XrY.text" = "number";
+
+/* Class = "UILabel"; text = "Your account has been blocked, please contact with us to solve this."; ObjectID = "rtC-4T-jQt"; */
+"rtC-4T-jQt.text" = "Tu cuenta ha sido bloqueada, por favor contactanos para resolverlo.";
+
+/* Class = "UILabel"; text = "Va en contra de mis ideales"; ObjectID = "tbS-Z5-BVh"; */
+"tbS-Z5-BVh.text" = "Va en contra de mis ideales";
+
+/* Class = "UINavigationItem"; title = "Settings"; ObjectID = "xbV-Ca-fOp"; */
+"xbV-Ca-fOp.title" = "Configuraciones";
+
+/* Class = "UITabBarItem"; title = "Item"; ObjectID = "xyc-u4-1r2"; */
+"xyc-u4-1r2.title" = "Item";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "zLK-fg-l7g"; */
+"zLK-fg-l7g.text" = "Title";
+
+/* Class = "UIButton"; normalTitle = "Call us"; ObjectID = "zSv-p5-wZn"; */
+"zSv-p5-wZn.normalTitle" = "Llámanos";

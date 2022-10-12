@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+<key>chat.footer.last message %dsec ago</key>
+<dict>
+<key>NSStringLocalizedFormatKey</key>
+<string>%#@d_number_seconds@</string>
+<key>d_number_seconds</key>
+<dict>
+<key>NSStringFormatSpecTypeKey</key>
+<string>NSStringPluralRuleType</string>
+<key>NSStringFormatValueTypeKey</key>
+<string>d</string>
+<key>zero</key>
+<string>Last message just now</string>
+<key>one</key>
+<string>Last message just now</string>
+<key>two</key>
+<string>Last message just now</string>
+<key>other</key>
+<string>Last message %dsec ago</string>
+</dict>
+</dict>
+</dict>
+</plist>

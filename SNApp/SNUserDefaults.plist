@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SNAppFlag</key>
+	<false/>
+	<key>SNNotificationChat</key>
+	<true/>
+	<key>SNNotificationNearPost</key>
+	<true/>
+	<key>SNCameraFlashMode</key>
+	<integer>0</integer>
+	<key>SNCameraDevice</key>
+	<integer>0</integer>
+	<key>SNGCMSenderId</key>
+	<string></string>
+	<key>SNGCMIsReceivedToken</key>
+	<false/>
+	<key>SNGCMIsConnect</key>
+	<false/>
+	<key>SNUserState</key>
+	<integer>1</integer>
+	<key>SNUserIsGuest</key>
+	<false/>
+	<key>SNUserTimesTryLogin</key>
+	<integer>0</integer>
+	<key>SNUserAccountId</key>
+	<integer>-1</integer>
+	<key>SNUsername</key>
+	<string></string>
+	<key>SNUserCloudId</key>
+	<string></string>
+	<key>SNUserIsLogin</key>
+	<false/>
+	<key>SNUserRadius</key>
+	<integer>500</integer>
+	<key>SNUserStepRadius</key>
+	<integer>100</integer>
+	<key>SNUserLastPosition</key>
+	<dict>
+		<key>SNLatitude</key>
+		<integer>0</integer>
+		<key>SNLongitude</key>
+		<integer>0</integer>
+	</dict>
+	<key>SNNavigationLoginPage</key>
+	<integer>0</integer>
+	<key>SNNavigationLoginNumberPhone</key>
+	<string></string>
+	<key>SNNavigationLoginName</key>
+	<string></string>
+</dict>
+</plist>
